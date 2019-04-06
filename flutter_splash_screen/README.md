@@ -15,4 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
 
-![alt text](https://github.com/brunoemferreira/flutter/blob/master/images/restaurante.jpg?raw=true)
+![alt text](https://github.com/brunoemferreira/flutter/blob/master/images/splash_screen.png?raw=true)
